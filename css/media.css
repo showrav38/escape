@@ -1,0 +1,404 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+	.menu{
+		text-align: center;
+	}
+.navbar-custom{
+    color: white !important;
+    border-color: #9C27B0 !important;
+}
+.navbar-custom:hover{
+    border-color: #fff !important;
+}
+.header-content{
+	margin-top: 30px;
+}
+.header-content h3 {
+    font-size: 16px;
+}
+.header-content h1 {
+    font-size: 25px;
+    margin-top: 20px;
+}
+.btn-custom {
+    margin: 35px 0 75px 0;
+    padding: 15px 45px;
+    font-size: 20px;
+}
+.btn-custom {
+    margin: 30px 0 65px 0;
+    padding: 10px 35px;
+    font-size: 20px;
+}
+/* header end */
+/* devlopment start */
+
+.devlopement{
+	text-align: center;
+	padding: 40px 0;
+}
+.devlop h1 {
+    font-size: 30px;
+}
+
+.dev2{
+	text-align: center;
+	padding: 40px 0;
+}
+
+/* devlopment end */
+/* branding start */
+.branding {
+    padding: 70px 0;
+}
+.content {
+	text-align: center;
+    margin-top: 20px;
+}
+.content h1 {
+    font-size: 18px;
+}
+.content p {
+    font-size: 16px;
+}
+/* branding end */
+/* logo start */
+.logo {
+    padding: 45px 0;
+}
+.img-logo{
+    margin-top: 15px;
+    text-align: center;
+}
+
+
+/* logo end */
+/* clients start */
+.clients {
+    padding: 70px 0;
+}
+/* clients end */
+/* amazing client start */
+.amazing {
+    padding: 70px 0;
+}
+.common-title, .new h1 {
+    font-size: 25px;
+}
+.common-title, .new p {
+    font-size: 16px;
+}
+.circle {
+    width: 150px;
+    height: 150px;
+}
+.amazing-profile{
+    margin-top: 25px;
+}
+.box {
+    width: 18rem;
+    margin-top: 10px;
+    padding: 5px 10px;
+    margin: auto;
+}
+.box p {
+    font-size: 18px;
+}
+.box p:last-child {
+    font-size: 16px;
+}
+
+
+
+/* amazing client end */
+	
+
+
+    }
+
+/* footer start */
+.footer{
+        padding: 70px 0 20px 0;
+}
+.col-right{
+    text-align: right;
+}
+.common-title{
+    text-align: center;
+}
+.comment{
+    margin-top: 20px;
+}
+.comment-custom {
+    padding: 15px;
+}
+.hr {
+    margin-top: 40px;
+
+}
+.footer-footer p {
+    font-size: 16px;
+    margin-top: 0;
+}
+.g-plus{
+    margin-left: 10px;
+
+}
+/* footer end */
+
+
+
+/* contact end */
+
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+.menu{
+		text-align: center;
+	}
+.navbar-custom{
+    color: white !important;
+    border-color: #9C27B0 !important;
+}
+.navbar-custom:hover{
+    border-color: #fff !important;
+}
+.header-content{
+	margin-top: 30px;
+}
+.header-content h1 {
+    font-size: 45px;
+    margin-top: 25px;
+}
+.header-content h3 {
+    font-size: 25px;
+}
+.btn-custom {
+    margin: 35px 0 75px 0;
+    padding: 15px 45px;
+    font-size: 20px;
+}
+/* devlopment start */
+
+.devlopement{
+	text-align: center;
+	padding: 50px 0;
+}
+.devlop h1 {
+    font-size: 40px;
+}
+.img-custom {
+    margin-top: 20px;
+    margin-left: 0;
+}
+.dev2{
+	text-align: center;
+	padding: 50px 0;
+}
+.img-custom-r{
+	margin-left: 20px;
+
+}
+/* brading start */
+.branding {
+    padding: 70px 0;
+}
+.content {
+	text-align: center;
+    margin-top: 20px;
+}
+/* brading end */
+
+/* clinets start */
+.clients{
+    padding: 70px 0;
+}
+.clients h1 {
+    font-size: 35px;
+}
+.clients p {
+    font-size: 18px;
+}
+/* clients end */
+/* amazing start */
+.amazing{
+    padding: 70px 0;
+}
+.amazing-profile{
+    margin-top: 25px;
+}
+.circle {
+    width: 180px;
+    height: 180px;
+}
+.cicle-custom-r{
+    margin-left: 30px !important;
+}
+.box {
+    width: 29rem;
+    margin-top: 15px;
+    padding: 10px 35px;
+    margin-left: 25px;
+}
+.common-title, .new h1 {
+    font-size: 35px;
+}
+.common-title, .new p {
+    font-size: 18px;
+}
+.social-icon {
+    margin: 0 5px;
+}
+/* amazing end */
+/* logo start */
+.logo {
+    padding: 45px 0;
+}
+.img-logo{
+    margin-top: 15px;
+    text-align: center;
+}
+/* logo end */
+/* footer */
+.footer{
+        padding: 70px 0 20px 0;
+}
+.common-title{
+    text-align: center;
+}
+.comment {
+    margin-top: 30px;
+}
+/* footer */
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/* header start */
+	.menu{
+		text-align: center;
+	}
+.navbar-custom{
+    color: white !important;
+    border-color: #9C27B0 !important;
+}
+.navbar-custom:hover{
+    border-color: #fff !important;
+}
+.header-content{
+	margin-top: 30px;
+}
+.header-content h3 {
+    font-size: 25px;
+}
+.header-content h1 {
+    font-size: 45px;
+    margin-top: 25px;
+}
+.btn-custom {
+    margin: 40px 0 81px 0;
+    padding: 15px 45px;
+    font-size: 20px;
+}
+/* header end */
+
+/* devlopment start */
+.devlop h1 {
+    font-size: 40px;
+}
+.img-custom {
+    margin-top: 50px;
+	margin-left: 0;
+}
+
+.img-custom-r {
+    margin-top: 50px;
+}
+.devlopement {
+    padding: 70px 0;
+}
+.dev2 {
+    padding: 70px 0;
+}
+/* devlopment end */
+/* branding start */
+.content {
+    margin-left: 40px;
+}
+.content h1 {
+    font-size: 22px;
+}
+.content p {
+    font-size: 17px;
+    word-spacing: 0;
+}
+/* branding end */
+/* clients start */
+.clients{
+    padding: 70px 0;
+}
+.clients h1 {
+    font-size: 45px;
+}
+.clients p {
+    font-size: 20px;
+}
+/* clients end */
+/* logo start */
+.logo {
+    padding: 45px 0;
+}
+
+
+/* logo end */
+/* amazing start */
+.amazing{
+    padding: 70px 0;
+}
+.common-title, .new h1 {
+    font-size: 40px;
+}
+.common-title  p {
+    font-size: 18px;
+}
+.new p{
+    font-size: 16px;
+}
+.circle {
+    width: 180px;
+    height: 180px;
+}
+.cicle-custom-r{
+    margin-left: 30px !important;
+}
+.box {
+    width: 29rem;
+    margin-top: 10px;
+    padding: 10px 35px;
+    margin-left: 25px;
+}
+
+/* amazing end */
+/* footer start */
+.comment-custom {
+    padding: 15px;
+}
+.hr {
+    margin-top: 70px;
+}
+/* footer end */
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+
+
+
+ }
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+}

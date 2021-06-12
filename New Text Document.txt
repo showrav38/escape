@@ -1,0 +1,4 @@
+andorid icon-
+<i class="fas fa-tablet-android-alt"></i>
+email-
+<i class="far fa-envelope"></i>

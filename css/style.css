@@ -1,0 +1,270 @@
+@font-face{
+	font-family: brandon-grotesque-light;
+	src: url('../fonts/brandon-grotesque-light-58a8a4b38001d.otf');
+	src: url('../fonts/Brandon_bld.otf');
+	src: url('../fonts/Brandon_med.otf');
+	src: url('../fonts/Brandon_reg.otf');
+}
+*{
+	font-family: font-family: 	brandon-grotesque-light;
+}
+
+/* header start */
+header{
+	background: url('../images/Escape.jpg');
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center;
+	background-position: 
+
+}
+.navbar-custom{
+    border-color: #9C27B0;
+}
+.logo-img{
+	transition: 0.5s;
+}
+.logo-img:hover{
+	
+}
+
+.menu{
+	padding: 45px 0;
+	font-family: brandon-grotesque-light;
+
+}
+.menu ul li a{
+	font-size: 18px;
+	padding: 0 25px !important;
+	color: #fff !important;
+	transition: 0.5s;
+}
+.menu ul li:last-child a{
+	padding: 0 0px !important;
+}
+.menu ul li a:hover{
+	transition: 0.3s;
+	color: grey !important;
+}
+.header-content{
+	font-family: brandon-grotesque-light;
+	color: #fff;
+	margin-top: 100px;
+}
+.header-content h3{
+	font-size: 32px;
+}
+.header-content h1{
+	font-weight: 700;
+	font-size: 65px;
+	text-transform: uppercase;
+	margin-top: 40px;
+}
+.btn-custom {
+	margin: 60px 0 100px 0;
+    border: 2px solid #fff;
+    padding: 17px 65px;
+    font-weight: 700;
+    font-size: 23px;
+    color: #fff;
+}
+/* header end */
+
+/* devlopment stat */
+.devlopement{
+	padding: 90px 0;
+}
+.devlop{
+	font-family: brandon-grotesque-light;
+}
+.devlop h1{
+	font-size: 58px;
+}
+.devlop p{
+	font-family: Brandon_reg;
+	margin: 20px 0;
+	font-size: 18px;
+	text-align: justify;
+}
+.img-custom{
+	margin-top: 20px;
+	margin-left: 85px;
+}
+.dev2{
+	padding: 90px 0;
+ 	font-family: 	brandon-grotesque-light;
+	background-color: #fafafa;
+}
+.img-custom-r{
+	margin-top: 20px;
+	
+}
+/* devlopment end */
+
+/* branding start */
+.branding{
+	padding: 90px 0;
+}
+.m-t{
+	margin-top: 20px;
+}
+.icon{
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	background-color: #212121;
+	color: #fff;
+
+}
+.icon i{
+	font-size: 32px;
+	margin-top: 10px;
+}
+.content{
+	margin-left: 20px;
+}
+
+.content h1{
+	font-family: Brandon_med;
+	font-size: 22px;
+}
+.content p{
+	font-family: Brandon_reg;
+	font-size: 18px;
+	word-spacing: 3px;
+}
+/* branding end */
+
+/* clients start */
+.clients{
+	font-family: 	brandon-grotesque-light;
+	padding: 90px 0;
+	background-color: #fafafa;
+}
+.common-title, .new h1{
+	font-size: 59px;
+}
+.common-title, .new p{
+	font-size: 22px;
+	
+}
+.new p{
+	font-size: 18px;
+	
+}
+.circle{
+	width: 220px;
+	height: 220px;
+	border-radius: 50%;
+	background-color: #111111;
+}
+.cicle-custom{
+	margin-top: 25px;
+}
+.box {
+    width: 42rem;
+    background-color: #fff;
+    margin-top: 15px;
+    padding: 20px 60px;
+}
+.box p{
+	font-size: 26px;
+}
+.box p:last-child{
+	font-size: 20px;
+	color: blue;
+}
+/* clients end */
+/* logo start */
+.logo{
+	padding: 55px 0;
+}
+
+
+/* logo end */
+
+/* amazing start */
+.amazing{
+	font-family: 	brandon-grotesque-light;
+	padding: 90px 0;
+	background-color: #111111;
+	color: #fff;
+}
+.amazing-profile p{
+	margin-top: 10px;
+	font-size: 18px;
+}
+.circle-custom{
+	border: 5px solid #fff;
+}
+.social-icon{
+	width: 40px;
+	height: 40px;
+	border: 2px solid #fff;
+	border-radius: 50%;
+	float: left;
+	margin: 0 10px;
+	transition: 0.5s;
+}
+
+.social-icon a{
+	color: #fff !important;
+
+
+}
+.social-icon a i{
+	font-size: 20px;
+	margin-top: 10px;
+	
+}
+.sky:hover{
+	background-color: skyblue;
+}
+.blue:hover{
+	background-color: blue;
+}
+.red:hover{
+	background-color: red;
+}
+.amazing-footer{
+	margin-top: 45px;
+}
+.amazing-footer p{
+	font-size: 22px;
+}
+/* amazing end */
+
+/* footer start */
+.footer{
+	font-family: brandon-grotesque-light;
+	padding: 90px 0 30px 0;
+	background-color: #7690c5;
+	color: #fff;
+}
+
+.footer-font{
+	font-size: 30px;
+}
+.footer-icon{
+	margin-top: 10px;
+}
+.footer-content p{
+	font-size: 17px;
+	margin-top: 10px;
+	margin-bottom: 0 !important;
+}
+.comment-custom{
+	padding: 25px;
+}
+.hr{
+	margin-top: 90px;
+    border-top: 1px solid #87a0d2;
+    width: 100%;
+}
+
+.footer-footer p{
+	font-size: 18px;
+	margin-top: 20px;
+}
+/* footer end */
